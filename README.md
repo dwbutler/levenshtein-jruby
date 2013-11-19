@@ -1,8 +1,7 @@
 # Levenshtein (JRuby)
 
 Calculates the Levenshtein distance between two strings. Uses the
-[Apache Commons](<http://commons.apache.org/proper/commons-lang/apidocs/org/apache/commons/lang3/StringUtils.html#getLevenshteinDistance(java.lang.CharSequence, java.lang.CharSequence)>)
-Java implementation.
+[Apache Commons](http://commons.apache.org/proper/commons-lang/apidocs/org/apache/commons/lang3/StringUtils.html#getLevenshteinDistance\(java.lang.CharSequence, java.lang.CharSequence\)) Java implementation.
 
 ## Installation
 
